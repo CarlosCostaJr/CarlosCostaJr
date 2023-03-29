@@ -6,7 +6,7 @@ Inicialmente atuei como Analista de TI numa equipe multidisciplinar, o que me po
 
 Com os conhecimentos adquiridos até então, em 2011 fui convidado para participar da criação da equipe de Business Intelligence que tinha por objetivo dar suporte à decisão executiva da diretoria de TI da Petrobras.
 
-Ausente do mercado formal de trabalho nos últimos anos - administrando negócio familiar -, me apaixonei novamente pela área de tecnologia e venho buscando me atualizar para retomar minha carreira como desenvolvedor Web.
+Ausente do mercado formal de trabalho nos últimos anos - administrando negócio familiar -, me apaixonei novamente pela área de tecnologia e venho buscando me atualizar para retomar minha carreira como Engenheiro de Software.
 
 ##
 <div>

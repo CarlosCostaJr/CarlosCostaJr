@@ -131,15 +131,3 @@
 </div>
 
 ##
-
-<div align="center">
-  <a href="https://github.com/CarlosCostaJr">
-  <img width="45%" src="https://github-readme-stats-sigma-five.vercel.app/api?username=CarlosCostaJr&show_icons=true&theme=dark&include_all_commits=true&count_private=true&bg_color=DEG,000080,4682B4&text_color=F8F8FF"/>
-  <img width="45%" src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=CarlosCostaJr&layout=compact&langs_count=10&theme=dark&bg_color=DEG,000080,4682B4&text_color=F8F8FF"/>
-</div>
-
-<div align="center">
-  <a href="https://github.com/Meghna-DAS/github-profile-views-counter">
-	  <img height="30em" src="https://komarev.com/ghpvc/?username=CarlosCostaJr">
-  </a>
-</div>

@@ -1,23 +1,4 @@
 <h1 align="left"><img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px" height="30px"> Olá! Seja bem vindo(a)!</h1>
-1
-<div>
-```js
-const name = 'Carlos Roberto Da Costa Junior';
-const status = ["Software Engineer", "Computer Scientist"];
-
-const activities = { 
-  learning : ['Python'],
-};
-
-const skills = {
-  FrontEnd: ['HTML', 'CSS', 'Javascript', 'ReactJs', 'ReactNative', 'Sass'],
-  BackEnd: ['Node.js', 'Typescript', 'Express.js', 'MySQL', 'Sequelize', 'MongoDB', 'Mongoose'],
-  Tests: ['Jest', 'Testing Library', 'Mocha', 'Chai', 'Sinon'],
-  Others: ['Git', 'GitHub', 'Docker'],
-  Knowledge: ['TDD', 'SOLID', 'POO', 'API RESTful', 'MVC', 'CLEAN CODE', 'CLEAN ARCHTECTURE'],
-};
-```
-</div>
 
 ##
 <div>

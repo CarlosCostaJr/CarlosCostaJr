@@ -122,10 +122,10 @@
 
 <h3>Onde me encontrar:</h3>
 <div align="center">
-  <a href = "mailto:joaoe.pacheco@gmail.com">
+  <a href = "mailto:carlosrobertocostajunior@id.uff.br">
 	  <img height="30em" src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank">
 	</a>
-  <a href="https://www.linkedin.com/in/joaoespacheco" target="_blank">
+  <a href="https://www.linkedin.com/in/carlos-costa-junior" target="_blank">
 	  <img height="30em" src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank">
   </a> 
 </div>
@@ -133,16 +133,16 @@
 ##
 
 <div align="center">
-  <a href="https://github.com/joaoespacheco">
-  <img width="45%" src="https://github-readme-stats-sigma-five.vercel.app/api?username=joaoespacheco&show_icons=true&theme=dark&include_all_commits=true&count_private=true&bg_color=DEG,000080,4682B4&text_color=F8F8FF"/>
-  <img width="45%" src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=joaoespacheco&layout=compact&langs_count=10&theme=dark&bg_color=DEG,000080,4682B4&text_color=F8F8FF"/>
+  <a href="https://github.com/CarlosCostaJr">
+  <img width="45%" src="https://github-readme-stats-sigma-five.vercel.app/api?username=CarlosCostaJr&show_icons=true&theme=dark&include_all_commits=true&count_private=true&bg_color=DEG,000080,4682B4&text_color=F8F8FF"/>
+  <img width="45%" src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=CarlosCostaJr&layout=compact&langs_count=10&theme=dark&bg_color=DEG,000080,4682B4&text_color=F8F8FF"/>
 </div>
 
 <div align="center">
   <a href="https://github.com/Meghna-DAS/github-profile-views-counter">
-	  <img height="30em" src="https://komarev.com/ghpvc/?username=MEU NOME">
+	  <img height="30em" src="https://komarev.com/ghpvc/?username=CarlosCostaJr">
   </a>
-  <a href="https://github.com/joaoespacheco?tab=followers">
+  <a href="https://github.com/CarlosCostaJr?tab=followers">
 	  <img height="30em" src="https://img.shields.io/github/followers/COLOCAR O MEU? label=Followers&style=social" alt="GitHub Badge">
   </a>
 </div>

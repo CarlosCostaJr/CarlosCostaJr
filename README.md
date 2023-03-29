@@ -1,5 +1,13 @@
 <h1 align="left"><img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px" height="30px"> Olá! Seja bem vindo(a)!</h1>
 
+Profissional de TI desde 2007 e apaixonado por tecnologia desde sempre.
+
+Inicialmente atuei como Analista de TI numa equipe multidisciplinar, o que me possibilitou adquirir conhecimentos técnicos em várias áreas diferentes como infraestrutura, treinamento de usuários, gestão e acompanhamento de indicadores de serviço. Posteriormente migro para a equipe de desenvolvimento(plataforma Java - Framework Spring) onde tenho meu primeiro contato profissional com Desenvolvimento de software migrando um sistema desktop para Web.
+
+Com os conhecimentos adquiridos até então, em 2011 fui convidado para participar da criação da equipe de Business Intelligence que tinha por objetivo dar suporte à decisão executiva da diretoria de TI da Petrobras.
+
+Ausente do mercado formal de trabalho nos últimos anos - administrando negócio familiar -, me apaixonei novamente pela área de tecnologia e venho buscando me atualizar para retomar minha carreira como desenvolvedor Web.
+
 ##
 <div>
 <h3 align="center">Linguagens e Ferramentas:</h3>

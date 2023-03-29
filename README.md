@@ -142,7 +142,4 @@
   <a href="https://github.com/Meghna-DAS/github-profile-views-counter">
 	  <img height="30em" src="https://komarev.com/ghpvc/?username=CarlosCostaJr">
   </a>
-  <a href="https://github.com/CarlosCostaJr?tab=followers">
-	  <img height="30em" src="https://img.shields.io/github/followers/COLOCAR O MEU? label=Followers&style=social" alt="GitHub Badge">
-  </a>
 </div>

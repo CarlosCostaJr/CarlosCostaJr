@@ -18,7 +18,7 @@
 
 <h3>Contact me:</h3>
 <div align="left">
-  <a href = "mailto:carlosrobertocostajunior@id.uff.br">
+  <a href = "mailto:carlosrdcjunior@gmail.com">
 	  <img height="30em" src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank">
 	</a>
   <a href="https://www.linkedin.com/in/carlos-costa-junior" target="_blank">

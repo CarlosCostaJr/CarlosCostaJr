@@ -1,4 +1,4 @@
-<h1 align="left"><img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px" height="30px">  Hello and welcome! <br>  I'm Carlos Costa. Thank you for visiting my GitHub profile!</h1> <h1>Here are a few projects and the tech I'm an expert in.</h1>
+<h1 align="left">Hello and welcome!<img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px" height="30px"><br>  I'm Carlos Costa. Thank you for visiting my GitHub profile!</h1> <h1>Here are a few projects and the tech I'm an expert in.</h1>
 
 # 💻 Languagues:
 ![TypeScript](https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white) ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E) ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=java&logoColor=white) ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) ![Kotlin](https://img.shields.io/badge/kotlin-%230095D5.svg?style=for-the-badge&logo=kotlin&logoColor=white)
